@@ -19,6 +19,11 @@ Abra o terminal e execute os seguintes comandos: <br>
   </li>
 </ul>
 <br>
-![image](https://github.com/matheusclima/entregavel4/assets/63517485/1865be44-f4f9-47fd-a80a-8fe0ab0692f8)<br>
-Resultado obtido dos testes realizados
+<figure>
+  <img src="assets/teste_results.readme.png" alt="Resultado dos testes"/>
+  <figcaption>
+    Resultado obtido dos testes realizados.
+  </figcaption>
+  
+</figure>
 
