@@ -1,4 +1,4 @@
-const contagem = (notas) => {
+const contagemDeAprovados = (notas) => {
     let quantDeAlunosAprovados = 0
     for(let nota of notas) {
         if(nota >= 50) {
@@ -8,4 +8,4 @@ const contagem = (notas) => {
     return quantDeAlunosAprovados
 }
 
-module.exports = contagem
+module.exports = contagemDeAprovados
